@@ -4,6 +4,6 @@
 
 ## First Challenge
 
-- Inside your script.js file, add a click event which will trigger when a \<p> tag is clicked and will change the color of all \<p> tags to red.
+- Use that relationship to close the p element by clicking on the button using .slideToggle(‘slow’)
 
 <br>
